@@ -3,7 +3,7 @@
 ## uputa za korisnika
 Skripta podrazumjeva instaliran docker docker-compose (GO) i tcpdump (sudo privilegije)
 Verzije korištene:
-`
+```
 [j@j ~]$ docker --version
 Docker version 28.3.0, build 38b7060a21
 [j@j ~]$ docker-compose --version
@@ -11,7 +11,7 @@ Docker Compose version 2.38.1
 [j@j ~]$ python --version
 Python 3.13.5
 [j@j ~]$ 
-`
+```
 Skripta se pokreće:
 `$ chmod +x benchmarking.sh`
 
