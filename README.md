@@ -24,7 +24,7 @@ Skripta se pokreće:
 
 1. Izvršiti stres test i tcpdump capture. 
 
-2. Spremiti rezultate u ./result/{report1.html dump1.pcap}
+2. Spremiti rezultate u `./result/{report1.html dump1.pcap}`
 
 3. Zaustaviti kontejnere. 
 
@@ -32,7 +32,7 @@ Skripta se pokreće:
 
 5. Izvršiti stres test i tcpdump capture.
 
-6. Spremiti rezultate u ./result/{report2.html dump.pcap}
+6. Spremiti rezultate u `./result/{report2.html dump.pcap}`
 
 7. Zaustaviti i obrisati Swarm.
 
