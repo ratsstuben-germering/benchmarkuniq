@@ -2,7 +2,8 @@
 
 ## uputa za korisnika
 Skripta podrazumjeva instaliran docker docker-compose (GO) i tcpdump (sudo privilegije)
-Verzije korištene:
+
+Verzije koje su korištene:
 ```
 [j@j ~]$ docker --version
 Docker version 28.3.0, build 38b7060a21
