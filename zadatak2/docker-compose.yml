@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:alpine
+    networks:
+      - appnet
+
+  web:
+    image: flasha:zadnja
+    deploy:
+      replicas: 10
+      restart_policy:
+        condition: on-failure
+    ports:
+      - "5000:5000"
+    depends_on:
+      - redis
+    networks:
+      - appnet
+
+networks:
+  appnet:
+    driver: overlay
+
