@@ -39,7 +39,7 @@ Skripta se pokreće:
 Hvala Vam na zanimljivom zadatku i veoma teškom problemu pristupanja šeranom resursu, zamaskiranog u diječju igru.  
 
 Ovo je stablo projekta: 
-`
+```
 ├── benchmark.sh
 ├── py
 │   ├── b1.py
@@ -54,7 +54,7 @@ Ovo je stablo projekta:
 │   └── Dockerfile
 └── zadatak2
     └── docker-compose.yml
-`
+```
 Pitanje za kraj. Kako to da krivulja prirasta usera je logaritamska u zadatku 1,  
 a pritom eksponencijalna u zadatku 2. Totalno me zbunjuje.
 Dati su isti parametri (ukupno 4000 usera sa stvaranjem 100psec).
