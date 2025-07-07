@@ -68,8 +68,9 @@ Zadatak 2.
 ![Alt text](20250707_08h14m20s_grim.png)
 
 
-Svako dobro Vam želim. 
+Svako dobro.
+
+```
 [j@j benchmarkuniq]$ date
 Mon Jul  7 08:00:27 AM CEST 2025
-Odo spavat.
-
+```
