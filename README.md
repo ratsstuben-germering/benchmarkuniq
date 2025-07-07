@@ -13,9 +13,10 @@ Docker Compose version 2.38.1
 Python 3.13.5
 [j@j ~]$ 
 ```
-Skripta se pokreće:
+Skriptu prvo učinimo izvršnom:
 `$ chmod +x benchmarking.sh`
 
+Zatim ju pokrenemo:
 `$ sudo ./benchmarking.sh`
 
 > skripta zbog tcpdumpa zahtjeva povišene privilegije.
