@@ -59,6 +59,7 @@ Ovo je stablo projekta:
 Pitanje za kraj. Kako to da krivulja prirasta usera je logaritamska u zadatku 1,  
 a pritom eksponencijalna u zadatku 2. Totalno me zbunjuje.
 Dati su isti parametri (ukupno 4000 usera sa stvaranjem 100psec).
+
 Svako dobro. 
 [j@j benchmarkuniq]$ date
 Mon Jul  7 08:00:27 AM CEST 2025
