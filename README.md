@@ -35,9 +35,7 @@ Zatim ju pokrenemo:
 
 6. Spremiti rezultate u `./result/{report2.html dump.pcap}`
 
-7. Zaustaviti i obrisati Swarm.
-
-Hvala Vam na zanimljivom zadatku i veoma teškom problemu pristupanja šeranom resursu, zamaskiranog u diječju igru.  
+7. Zaustaviti i obrisati Swarm. 
 
 Ovo je stablo projekta: 
 ```
@@ -56,8 +54,6 @@ Ovo je stablo projekta:
 └── zadatak2
     └── docker-compose.yml
 ```
-Pitanje za kraj. Kako to da u zadatku 1 krivulja prirasta usera je nalik na logaritamsku,  
-a pritom u zadatku 2 je nalik na eksponencijalnu krivulju?
 
 Zadani parametri su 4000 usera ukupno, 100 usera/s 20s 
 
@@ -69,6 +65,8 @@ Zadatak 2.
 
 
 Svako dobro.
+
+Hvala Vam na zanimljivom zadatku i veoma teškom problemu pristupanja šeranom resursu.
 
 ```
 [j@j benchmarkuniq]$ date
